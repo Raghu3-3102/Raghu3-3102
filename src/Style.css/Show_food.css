@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.cnt-show{
+
+    width: 70%;
+    height: 65vh;
+    box-shadow: 4px 4px 2px 2px rgba(122, 115, 115, 0.594);
+    box-shadow: 2px 2px 4px 4px rgba(122, 115, 115, 0.594);
+    align-items: center;
+    text-align: center;
+    display: flex;
+    margin-top: 6%;
+    margin-left: 13%;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    color: black;
+}
+
+.restarts{
+
+height: 50px;
+width: 90px;
+background-color: rgb(19, 164, 65);
+color: white;
+margin-top: 20px;
+margin-left: 45%;
+border-radius: 5px;
+
+
+}

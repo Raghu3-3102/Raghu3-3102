@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.contener{
+
+    height: 100vh;
+    width: 100%;
+   
+
+}
+
+.form-contener{
+
+    height: 60vh;
+    width: 35%;
+    box-shadow: 4px 4px rgba(134, 131, 131, 0.597);
+    box-shadow: 2px 2px 4px 4px rgba(134, 131, 131, 0.597);
+    margin-top: 120px;
+    margin-left: 400px;
+    border-radius: 20px;
+    position: relative;
+   
+
+
+}
+
+.inp{
+
+    width: 200px !important;
+}
+
+.col1{
+
+    margin-top: 60px !important;
+    margin-left: 68px !important;
+
+}
+
+.col2{
+
+    margin-top: 120px !important;
+    margin-left: 68px !important;
+    position: absolute;
+}
+
+.col3{
+
+    margin-top: 180px !important;
+    margin-left: 68px !important;
+    position: absolute;
+}
+
+.col4{
+
+    margin-top: 240px !important;
+    margin-left: 68px !important;
+    position: absolute;
+}
+
+.col5{
+
+    margin-top: 300px !important;
+    margin-left: 68px !important;
+    position: absolute;
+}
+
+.primery-button{
+
+    margin-top: 230px !important;
+    width: 250px !important;
+    margin-left: 80px;
+    background-color: rgb(15, 115, 145);
+    position: absolute;
+
+
+}
+
+.primery-buttons{
+
+    margin-top: 90px !important;
+    width: 250px !important;
+    margin-left: 80px;
+    background-color: rgb(15, 115, 145);
+    position: absolute;
+
+
+}
+
+.anchor{
+
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 100px;
+    color: blue;
+    text-decoration: dotted;
+}

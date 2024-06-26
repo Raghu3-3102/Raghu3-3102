@@ -1,0 +1,50 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.cnt-booked{
+
+    width: 200px;
+    height: 330px;
+    margin-top: 30px;
+    margin-left: 60px;
+
+    box-shadow: 2px 2px 2px 2px rgb(193, 184, 184);
+    box-shadow: 2px 2px 2px 2px rgb(193, 184, 184);
+   
+    margin-bottom: 20px;
+}
+
+.img-cnt2{
+    width: 100%;
+    height: 150px;
+    background-color: aqua;
+    position: relative;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.btns{
+
+    position: absolute;
+     font-size: 30px;
+     right: 10px;
+     cursor: pointer;
+
+
+
+}
+
+.Btn{
+
+    background-color: rgb(35, 131, 35);
+    width: 95px;
+    margin-top: 10px;
+    font-size: 19px;
+    position: relative;
+    cursor: pointer;
+
+}
+
